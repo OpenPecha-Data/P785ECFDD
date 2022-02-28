@@ -1,0 +1,19 @@
+id: P785ECFDD
+initial_creation_type: input
+source_metadata:
+  title: Letters Series
+  language: pt
+  description: 'Examples of official and personal correspondence:'
+  volume:
+    2b1c7b538e514cc092ef46703ce7a46d:
+      title: Letter of Advice to Jamyang Gyaltsen
+      parent: Advice
+    333e51122d6f4f61b4ee8c33558146f8:
+      title: A Letter to the Fourteenth Dalai Lama, Supreme Victorious Guru of the
+        Beings of the Three Realms
+      parent: General
+    fd5d2938775e464fa549f1a7d5b3096b:
+      title: Letter to Gyarong Khandro
+      parent: General
+created_at: '2022-03-01T04:10:27.889020'
+last_modified_at: '2022-03-01T04:10:27.889024'
